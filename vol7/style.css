@@ -1,0 +1,42 @@
+body{
+    width:800px;
+    margin-right:auto;
+    margin-left:auto;
+  }
+
+.Yugoyhic-palton{
+    font-family:'Yu Gothic';
+    color: black;
+}
+.one{
+    font-family:'Yu Gothic';
+    color: blue;
+}
+
+.Yugoyhic-paltoff{
+    font-family:'Yu Gothic';
+    color: crimson;
+    opacity: 0.3;
+}
+.two{
+    font-family:'Yu Gothic';
+    color: crimson;
+}
+
+.Yumincho-palton{
+    font-family: serif;
+    color: brown;
+}
+.three{
+    font-family: sans-serif;
+    color: brown;
+}
+
+.BIZUDPgothic-palton{
+    font-family: sans-serif;
+    color: brown;
+}
+.four{
+    font-family: sans-serif;
+    color: brown;
+}
